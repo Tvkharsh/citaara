@@ -13,7 +13,11 @@ print(str)
 
 b, c, d = 1, 1.2, "Great"
 e = 4
+
+f = "6"
+
 print(b, c, d, e)
+print(f)
 
 # b = 1
 # print("get the value of b")
