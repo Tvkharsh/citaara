@@ -12,8 +12,8 @@ str = "what i need to print"
 print(str)
 
 b, c, d = 1, 1.2, "Great"
-
-print(b, c, d)
+e = 4
+print(b, c, d, e)
 
 # b = 1
 # print("get the value of b")
